@@ -1,9 +1,7 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Actions Status](https://github.com/bender-labs/wrap-indexer/workflows/indexer-main/badge.svg)](https://github.com/bender-labs/wrap-indexer/actions)
 
-# Wrap protocol indexer
+# Plenty Bridge Indexer
 
-This indexer aims to ease wraps and unwraps via dapps.
+This indexer aims to ease Bridge from (Tezos -> Ethereum) and (Ethereum -> Tezos) via dapps.
 
 ## Features
 
@@ -35,7 +33,3 @@ This indexer aims to ease wraps and unwraps via dapps.
 ## Versioning
 
 `npm version`
-
-## License
-
-Licensed under the MIT. See the [LICENSE](https://github.com/bender-labs/wrap-indexer/blob/main/LICENSE) file for details.
